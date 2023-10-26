@@ -11,7 +11,7 @@ sns.set(color_codes=True)
 conn = psycopg2.connect(
     dbname="mtcars",
     user="postgres",
-    password="gafime02",
+    password="*********",
     host="127.0.0.1"
 )
 
