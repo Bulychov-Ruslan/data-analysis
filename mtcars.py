@@ -1,4 +1,5 @@
 # %%
+# Housing датасеты ПИларға база данных салынбағаннан кейін анализ тек mtcars датасетімен жасалды.
 import psycopg2
 import pandas as pd
 import seaborn as sns 
